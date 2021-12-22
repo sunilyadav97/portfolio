@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sunil Yadav!
 - 👀 I’m interested in Softwares
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Python Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sunilyadavwork2003@gmail.com
 -  <a href="https://www.linkedin.com/in/sunilyadavcode/" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin-circled--v1.png"/></a>
