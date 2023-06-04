@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sunil Yadav!
-- 👀 I’m interested in Softwares
+- 👀 I’m Software Engineer Python Django
 - 🌱 I’m currently learning Django Rest Framework
 - 💞️ I’m looking to collaborate on full stack development
 - 📫 How to reach me contact@dearwebs.com
